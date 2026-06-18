@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: persona-rag-chatbot
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --bind 0.0.0.0:$PORT --timeout 120
+    envVars:
+      - key: MAX_ROWS
+        value: "300"
+      - key: XAI_API_KEY
+        sync: false
