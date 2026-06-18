@@ -1,0 +1,586 @@
+[
+  {
+    "topic_id": 1,
+    "start": 0,
+    "end": 14,
+    "num_messages": 14,
+    "summary": "I'm excited to be moving to a new city soon! Yes, I love going to Powell's Books.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 2,
+    "start": 14,
+    "end": 28,
+    "num_messages": 14,
+    "summary": "I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about. It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 3,
+    "start": 28,
+    "end": 44,
+    "num_messages": 16,
+    "summary": "I enjoy reading, cooking, and spending time with my family. I used to have a dog, but he passed away a few years ago.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 4,
+    "start": 44,
+    "end": 60,
+    "num_messages": 16,
+    "summary": "That sounds like a really fun job! I love the Harry Potter series",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 5,
+    "start": 60,
+    "end": 72,
+    "num_messages": 12,
+    "summary": "I am a little nervous about moving away from my family and friends, but I am looking forward to the new adventure. I am looking forward to helping people and making a difference in my community.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 6,
+    "start": 72,
+    "end": 102,
+    "num_messages": 30,
+    "summary": "I love to play soccer and I usually wake up and play piano before starting my day. I love books, and I like to watch funny and lighthearted shows to relax.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 7,
+    "start": 102,
+    "end": 121,
+    "num_messages": 19,
+    "summary": "I enjoy gardening, listening to the Beatles, and spending time with my pets. I have a lot of different kinds of plants, including flowers, vegetables, and herbs.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 8,
+    "start": 121,
+    "end": 139,
+    "num_messages": 18,
+    "summary": "Just got home from a long day at work. I train people to stay in peak physical condition.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 9,
+    "start": 139,
+    "end": 184,
+    "num_messages": 45,
+    "summary": "I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy. We live in a beautiful area, so there are lots of great hiking trails nearby.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 10,
+    "start": 184,
+    "end": 202,
+    "num_messages": 18,
+    "summary": "I'm a fisherman and I love spending time with my dog. I've always wanted to learn how to dance salsa.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 11,
+    "start": 202,
+    "end": 233,
+    "num_messages": 31,
+    "summary": "I mostly do nature photography, but I'm also trying to get into sports photography Oh cool, that's a great hobby to have Thanks! I've been doing it since I was a kid Wow that's awesome Yeah, my dad is a really good photographer and he's been teaching me everything he knows That's so cool!",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 12,
+    "start": 233,
+    "end": 248,
+    "num_messages": 15,
+    "summary": "I used to sing in choir, but I haven't in a long time. I'm trying to build a stronger relationship with my friends, but it's hard.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 13,
+    "start": 248,
+    "end": 286,
+    "num_messages": 38,
+    "summary": "I'm not very artistic so I can appreciate all the work that goes into creating a mural. I can imagine it would be difficult to come up with a concept that everyone will like.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 14,
+    "start": 286,
+    "end": 301,
+    "num_messages": 15,
+    "summary": "I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to. I also like to watch YouTube videos about welding and learn new things.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 15,
+    "start": 301,
+    "end": 315,
+    "num_messages": 14,
+    "summary": "I love to juggle balls, but I also like to juggle torches and knives. I love the combination of the creamy hummus and the crunchy pita bread.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 16,
+    "start": 315,
+    "end": 329,
+    "num_messages": 14,
+    "summary": "I love helping people reach their fitness goals. My favorite part of my job is seeing the progress that my clients make.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 17,
+    "start": 329,
+    "end": 345,
+    "num_messages": 16,
+    "summary": "It's a great way to get some exercise and spend time with my best friend. It's a great way to relax and clear my head.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 18,
+    "start": 345,
+    "end": 363,
+    "num_messages": 18,
+    "summary": "I'm not sure if you are busy, but I wanted to ask about scuba diving. I saw so many colorful fish and coral reefs.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 19,
+    "start": 363,
+    "end": 380,
+    "num_messages": 17,
+    "summary": "They are great pets but they require a lot of attention and care. I'll send you my number so we can make plans.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 20,
+    "start": 380,
+    "end": 396,
+    "num_messages": 16,
+    "summary": "My favorite color is orange, so it is the perfect time of year for me. I also enjoy going to football games and watching horror movies.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 21,
+    "start": 396,
+    "end": 405,
+    "num_messages": 9,
+    "summary": "I like to watch old movies from my childhood. I like to watch action movies with my family on Netflix.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 22,
+    "start": 405,
+    "end": 417,
+    "num_messages": 12,
+    "summary": "I like to play open-world games, like Skyrim and Fallout. I love being able to create my own character and make choices that affect the story.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 23,
+    "start": 417,
+    "end": 435,
+    "num_messages": 18,
+    "summary": "I love to experiment with new recipes and I love to share my food with my friends and family. My favorite thing to cook is probably my mom's chicken noodle soup.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 24,
+    "start": 435,
+    "end": 457,
+    "num_messages": 22,
+    "summary": "I usually just make chocolate chip cookies or brownies. I've never read any of Stephen King's books, but I've heard good things about them.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 25,
+    "start": 457,
+    "end": 482,
+    "num_messages": 25,
+    "summary": "I like to read, write, and spend time with my family. I also like to read historical fiction and romance novels.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 26,
+    "start": 482,
+    "end": 512,
+    "num_messages": 30,
+    "summary": "I like to go fishing, watch baseball, and spend time with my family. My dad is a chef and my sister is a server so my favorite food is always on the table.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 27,
+    "start": 512,
+    "end": 531,
+    "num_messages": 19,
+    "summary": "I love to cook all kinds of food, but my specialty is Italian. I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 28,
+    "start": 531,
+    "end": 546,
+    "num_messages": 15,
+    "summary": "Not too bad, just got home from work. I've always wanted to drive a fast car.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 29,
+    "start": 546,
+    "end": 564,
+    "num_messages": 18,
+    "summary": "I'm working from home today, which I love because it gives me a lot of freedom. I'm actually a park ranger, so I get to spend my days surrounded by nature.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 30,
+    "start": 564,
+    "end": 588,
+    "num_messages": 24,
+    "summary": "I'm going to visit my brother in another city. I'm an aspiring male model.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 31,
+    "start": 588,
+    "end": 604,
+    "num_messages": 16,
+    "summary": "I work graveyard in a hotel, it's not the most exciting job, but it pays the bills. I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 32,
+    "start": 604,
+    "end": 622,
+    "num_messages": 18,
+    "summary": "I actually write romantic comedies in my spare time. I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 33,
+    "start": 622,
+    "end": 639,
+    "num_messages": 17,
+    "summary": "I'm a student, and I'm trying to stay positive and focus on my studies. I used to play hockey when I was younger, but now I enjoy spending my time fishing and relaxing.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 34,
+    "start": 639,
+    "end": 658,
+    "num_messages": 19,
+    "summary": "I just got a new job in academia and I'm really excited about it. I love to go for walks, play with my parakeet, and watch YouTube videos.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 35,
+    "start": 658,
+    "end": 671,
+    "num_messages": 13,
+    "summary": "I'm just excited to start my senior year of high school next week. I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 36,
+    "start": 671,
+    "end": 689,
+    "num_messages": 18,
+    "summary": "I'm just working on some dental assistant work. Sectional couches are great, I love being able to spread out and relax.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 37,
+    "start": 689,
+    "end": 703,
+    "num_messages": 14,
+    "summary": "I enjoy making 3d models for video games and animations. I like to make models of characters from video games and movies.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 38,
+    "start": 703,
+    "end": 717,
+    "num_messages": 14,
+    "summary": "I'm heading home after a long run to see my girlfriend and eat some tacos. I'm working at a coffee shop to support myself while I pursue my dream of becoming a famous actress.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 39,
+    "start": 717,
+    "end": 725,
+    "num_messages": 8,
+    "summary": "I have a lot of favorite movies, but I think I'd have to say \"The Princess Bride\". I think it's a really great movie.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 40,
+    "start": 725,
+    "end": 761,
+    "num_messages": 36,
+    "summary": "I just got a new teaching job and I'm really excited about it. It'll just make comments about the weather, or about the traffic.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 41,
+    "start": 761,
+    "end": 771,
+    "num_messages": 10,
+    "summary": "I'm just getting ready for a day of work. I started playing when I was about 10 years old.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 42,
+    "start": 771,
+    "end": 783,
+    "num_messages": 12,
+    "summary": "I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels. I've been reading a lot of historical fiction set in the Civil War lately.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 43,
+    "start": 783,
+    "end": 799,
+    "num_messages": 16,
+    "summary": "Oh cool, my family is proud of my decision to become a police officer. My favorite place to eat recently is this new sushi place that just opened up.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 44,
+    "start": 799,
+    "end": 819,
+    "num_messages": 20,
+    "summary": "I love playing the guitar, and I also enjoy collecting seashells. I like to play a lot of different kinds of music, but my favorite is probably rock and roll.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 45,
+    "start": 819,
+    "end": 844,
+    "num_messages": 25,
+    "summary": "California seems like a cool place, I've always wanted to go. I can't skate either, I'm too worried about falling and hurting myself What is your favorite song by Nirvana?",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 46,
+    "start": 844,
+    "end": 857,
+    "num_messages": 13,
+    "summary": "I'm a food blogger and I love to share my favorite restaurant finds with my readers. It's not for everyone, but I love the homey atmosphere and the good old-fashioned comfort food.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 47,
+    "start": 857,
+    "end": 874,
+    "num_messages": 17,
+    "summary": "I love spending time with my mom too. Yeah, I try to make time for her every week.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 48,
+    "start": 874,
+    "end": 890,
+    "num_messages": 16,
+    "summary": "My day was good, I spent it cleaning my house and cooking dinner. I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 49,
+    "start": 890,
+    "end": 902,
+    "num_messages": 12,
+    "summary": "I currently do not work, but I am interested in learning how to finish drywall like my dad. I am interested in producing music, and I would love to be a stay at home dad.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 50,
+    "start": 902,
+    "end": 915,
+    "num_messages": 13,
+    "summary": "I like to go for walks, explore the area, and meet new people. My parents are very supportive and understanding, even though I'm not the best at managing my finances.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 51,
+    "start": 915,
+    "end": 944,
+    "num_messages": 29,
+    "summary": "They're pretty low-maintenance and they're really good at self-regulating their own temperature. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 52,
+    "start": 944,
+    "end": 957,
+    "num_messages": 13,
+    "summary": "I'm trying to focus on the positive and it's given me a chance to catch up on my blog and exercise. I write about my adventures hiking, my dog, and my favorite recipes.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 53,
+    "start": 957,
+    "end": 1008,
+    "num_messages": 51,
+    "summary": "I enjoy playing music, reading, and spending time with my family. I'm currently reading the Wheel of Time series by Robert Jordan.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 54,
+    "start": 1008,
+    "end": 1034,
+    "num_messages": 26,
+    "summary": "I like to read a variety of things, but I'm especially interested in history and science. I think it's one of the best ways to learn about the world and meet new people.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 55,
+    "start": 1034,
+    "end": 1054,
+    "num_messages": 20,
+    "summary": "I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. I'm still trying to figure out what I want to do with my life, but my school life is going well, though I am a bit tired from working so many hours at the food pantry.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 56,
+    "start": 1054,
+    "end": 1068,
+    "num_messages": 14,
+    "summary": "I work as a wedding planner and it's so much fun helping people create their dream weddings. I think I will watch some highlights of basketball games while I eat breakfast.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 57,
+    "start": 1068,
+    "end": 1087,
+    "num_messages": 19,
+    "summary": "I enjoy home cooked meals and playing with my cat in the backyard. I like to make my own soap and watch movies about aliens invading the earth.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 58,
+    "start": 1087,
+    "end": 1099,
+    "num_messages": 12,
+    "summary": "I just got back from a long ride on my bike. I've always wanted to go on a road trip in a Tacoma.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 59,
+    "start": 1099,
+    "end": 1110,
+    "num_messages": 11,
+    "summary": "I'm spending the day working on a mural I'm painting. I'm volunteering at the animal shelter today.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 60,
+    "start": 1110,
+    "end": 1121,
+    "num_messages": 11,
+    "summary": "I like to spend time with my family and friends, and I love to sing. I love to sing \"I Will Always Love You\" by Whitney Houston.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 61,
+    "start": 1121,
+    "end": 1135,
+    "num_messages": 14,
+    "summary": "Don't worry, as long as you follow the rules, you'll be fine. I'm not a big fan of the cold, but I do enjoy playing fetch with my dog in the snow.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 62,
+    "start": 1135,
+    "end": 1145,
+    "num_messages": 10,
+    "summary": "I just finished playing fetch with my dog, it was so much fun! Just keep exploring your interests and trying new things.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 63,
+    "start": 1145,
+    "end": 1164,
+    "num_messages": 19,
+    "summary": "I work at a grocery store, but I'm moving to a new city to pursue my culinary dreams. I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 64,
+    "start": 1164,
+    "end": 1202,
+    "num_messages": 38,
+    "summary": "I like to go to the movies, watch football, and spend time with my family. I like a lot of different movies, but my favorite is probably The Shawshank Redemption.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 65,
+    "start": 1202,
+    "end": 1216,
+    "num_messages": 14,
+    "summary": "I like to read a lot of different types of books but I'm really into historical fiction right now. I haven't read much historical fiction but I've heard good things about it.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 66,
+    "start": 1216,
+    "end": 1227,
+    "num_messages": 11,
+    "summary": "I love to cook, listen to music, and spend time with my friends and family. I listen to all sorts of music, but I especially love rock, pop, and hip-hop.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 67,
+    "start": 1227,
+    "end": 1263,
+    "num_messages": 36,
+    "summary": "I love all kinds of roses, but my favorite is probably the David Austin rose. It's a great way to relax and spend time with friends or family.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 68,
+    "start": 1263,
+    "end": 1279,
+    "num_messages": 16,
+    "summary": "I have to go to work but I'm excited because I'm going to be able to play racquetball after work with some friends That sounds like fun! It's a racquet sport that's similar to squash but it's played on a court that's smaller and the ball is a little bit bigger.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 69,
+    "start": 1279,
+    "end": 1293,
+    "num_messages": 14,
+    "summary": "I've been working on a new computer build. I enjoy reading, cooking, and spending time with my family.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 70,
+    "start": 1293,
+    "end": 1310,
+    "num_messages": 17,
+    "summary": "I listen to a lot of different things, but I mostly listen to indie music. I love The xx, The Japanese House, and Phoebe Bridgers.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 71,
+    "start": 1310,
+    "end": 1338,
+    "num_messages": 28,
+    "summary": "I like a lot of different types of music, but I mostly listen to rock and pop. I like a lot of bands, but some of my favorites are The Beatles, The Rolling Stones, and Led Zeppelin.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 72,
+    "start": 1338,
+    "end": 1362,
+    "num_messages": 24,
+    "summary": "I'm looking for ways to control my blood sugar while still being able to enjoy my active lifestyle. I have a friend who was diagnosed with diabetes a few years ago, and she's been struggling to find a way to manage her blood sugar levels while still being able to do the things she loves.",
+    "summary_method": "extractive"
+  },
+  {
+    "topic_id": 73,
+    "start": 1362,
+    "end": 1384,
+    "num_messages": 22,
+    "summary": "The Renaissance period was a time of great creativity and innovation. The Renaissance period was a time of great change and progress.",
+    "summary_method": "extractive"
+  }
+]

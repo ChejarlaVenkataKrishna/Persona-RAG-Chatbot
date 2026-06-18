@@ -1,0 +1,351 @@
+{
+  "num_user_messages_analyzed": 707,
+  "num_days_covered": 80,
+  "habits": {
+    "food_habits": [
+      {
+        "value": "i love to cook too",
+        "count": 1,
+        "example_quote": "Reading is a great way to relax. I love to cook too! What is your favorite meal to make?",
+        "first_seen_day": 2
+      },
+      {
+        "value": "i love making homemade pasta",
+        "count": 1,
+        "example_quote": "That's my favorite too! I love making homemade pasta.",
+        "first_seen_day": 72
+      },
+      {
+        "value": "i like to cook too",
+        "count": 1,
+        "example_quote": "That sounds like a lot of fun! I like to cook too.",
+        "first_seen_day": 77
+      }
+    ],
+    "sleep_schedule": [
+      {
+        "value": "i usually wake up and play piano before starting my day.",
+        "count": 1,
+        "example_quote": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+        "first_seen_day": 5
+      }
+    ],
+    "exercise_routine": [
+      {
+        "value": "i play the",
+        "count": 2,
+        "example_quote": "Thank you! I love music too. I play the piano and I used to take ballet lessons when I was younger.",
+        "first_seen_day": 36
+      },
+      {
+        "value": "i love to play soccer",
+        "count": 1,
+        "example_quote": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+        "first_seen_day": 5
+      },
+      {
+        "value": "i like to play open",
+        "count": 1,
+        "example_quote": "I like to play open-world games, like Skyrim and Fallout.",
+        "first_seen_day": 23
+      },
+      {
+        "value": "i play guitar",
+        "count": 1,
+        "example_quote": "I play guitar on my own sometimes. I also like to clean.",
+        "first_seen_day": 30
+      },
+      {
+        "value": "i like to run",
+        "count": 1,
+        "example_quote": "I like to run, read, and watch movies.",
+        "first_seen_day": 40
+      },
+      {
+        "value": "i love to play badminton",
+        "count": 1,
+        "example_quote": "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics.",
+        "first_seen_day": 54
+      },
+      {
+        "value": "i love to hike",
+        "count": 1,
+        "example_quote": "That sounds really cool! I love to hike, do you have any favorite trails?",
+        "first_seen_day": 55
+      },
+      {
+        "value": "i play a",
+        "count": 1,
+        "example_quote": "I love basketball! I play a few times a week with some friends.",
+        "first_seen_day": 61
+      }
+    ],
+    "daily_routine": [
+      {
+        "value": "i usually wake up and play piano before",
+        "count": 1,
+        "example_quote": "That's awesome! I love to play soccer and I usually wake up and play piano before starting my day.",
+        "first_seen_day": 5
+      }
+    ]
+  },
+  "personal_facts": {
+    "location": [
+      {
+        "value": "i'm moving to portland,",
+        "count": 1,
+        "example_quote": "I'm moving to Portland, Oregon. I'm going to be pursuing my culinary dreams there.",
+        "first_seen_day": 0
+      },
+      {
+        "value": "i'm from the big city,",
+        "count": 1,
+        "example_quote": "I'm from the big city, but I now live in the country with my dog.",
+        "first_seen_day": 62
+      },
+      {
+        "value": "i'm moving to a new city to pursue my culinary dreams.",
+        "count": 1,
+        "example_quote": "It's always great to meet a fellow science lover! I work at a grocery store, but I'm moving to a new city to pursue my culinary dreams.",
+        "first_seen_day": 67
+      }
+    ],
+    "life_events": [
+      {
+        "value": "i'm moving",
+        "count": 2,
+        "example_quote": "I'm moving to Portland, Oregon. I'm going to be pursuing my culinary dreams there.",
+        "first_seen_day": 0
+      }
+    ],
+    "job_or_study": [
+      {
+        "value": "i'm a software engineer.",
+        "count": 3,
+        "example_quote": "I'm a software engineer.",
+        "first_seen_day": 5
+      },
+      {
+        "value": "i'm a fulltime student studying radiology at a local college and i also play in a band that my parents don't know about.",
+        "count": 1,
+        "example_quote": "I'm doing great! I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about.",
+        "first_seen_day": 1
+      },
+      {
+        "value": "i'm a children's librarian.",
+        "count": 1,
+        "example_quote": "I'm a children's librarian. I love my job!",
+        "first_seen_day": 3
+      },
+      {
+        "value": "i'm a barista.",
+        "count": 1,
+        "example_quote": "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+        "first_seen_day": 6
+      },
+      {
+        "value": "i'm studying computer science.",
+        "count": 1,
+        "example_quote": "I'm studying computer science. I'm hoping to get a job as a programmer after I graduate.",
+        "first_seen_day": 8
+      },
+      {
+        "value": "i am a teacher.",
+        "count": 1,
+        "example_quote": "I am a teacher.",
+        "first_seen_day": 15
+      },
+      {
+        "value": "i'm a circus juggler from the midwest,",
+        "count": 1,
+        "example_quote": "Hi, I'm a circus juggler from the midwest, how are you?",
+        "first_seen_day": 17
+      },
+      {
+        "value": "i'm a japanese billionaire who loves the wind in my hair.",
+        "count": 1,
+        "example_quote": "I wish I could have a chef cook for me too! I'm a Japanese billionaire who loves the wind in my hair.",
+        "first_seen_day": 28
+      }
+    ],
+    "hobbies": [
+      {
+        "value": "i love trying",
+        "count": 3,
+        "example_quote": "That sounds fun! I love trying new foods too. I'm not good at keeping up with my family, but I'm trying to be better.",
+        "first_seen_day": 6
+      },
+      {
+        "value": "i love gardening",
+        "count": 3,
+        "example_quote": "That's great! I love gardening too. What kind of plants do you have?",
+        "first_seen_day": 7
+      },
+      {
+        "value": "i love being",
+        "count": 3,
+        "example_quote": "It can be, but it's also very rewarding. I love being able to spend time with my kids and help them learn and grow.",
+        "first_seen_day": 9
+      },
+      {
+        "value": "i love to go hiking",
+        "count": 3,
+        "example_quote": "I love to go hiking and camping. I also enjoy going to football games and watching horror movies.",
+        "first_seen_day": 22
+      },
+      {
+        "value": "i love reading",
+        "count": 2,
+        "example_quote": "Yes! I love reading to kids. It's the best part of my job!",
+        "first_seen_day": 3
+      },
+      {
+        "value": "i enjoy reading",
+        "count": 2,
+        "example_quote": "I enjoy reading Jane Austen novels. I love her writing style and her characters.",
+        "first_seen_day": 12
+      },
+      {
+        "value": "i love working",
+        "count": 2,
+        "example_quote": "It is a great job! I love working with kids.",
+        "first_seen_day": 15
+      },
+      {
+        "value": "i love getting",
+        "count": 2,
+        "example_quote": "I love getting to help people learn and grow. I also love the flexibility of the job.",
+        "first_seen_day": 16
+      }
+    ],
+    "pets": [
+      {
+        "value": "my dog",
+        "count": 8,
+        "example_quote": "I'm doing alright. I'm trying to keep up with my studies while also taking care of my dog. It's a lot of work, but I'm managing.",
+        "first_seen_day": 8
+      },
+      {
+        "value": "i have a dog",
+        "count": 1,
+        "example_quote": "I have a dog and a cat. They are my best friends.",
+        "first_seen_day": 2
+      },
+      {
+        "value": "i have a cat",
+        "count": 1,
+        "example_quote": "That's so cool! I also love animals. I have a cat and a dog.",
+        "first_seen_day": 10
+      },
+      {
+        "value": "my cat",
+        "count": 1,
+        "example_quote": "My cat's name is Mittens and my dog's name is Buddy.",
+        "first_seen_day": 10
+      }
+    ],
+    "relationships": [
+      {
+        "value": "my mom",
+        "count": 5,
+        "example_quote": "My favorite thing to cook is probably my mom's chicken noodle soup. It's so comforting and delicious!",
+        "first_seen_day": 24
+      },
+      {
+        "value": "my best friend",
+        "count": 3,
+        "example_quote": "Yeah, they are. I really love taking him for walks. It's a great way to get some exercise and spend time with my best friend.",
+        "first_seen_day": 19
+      },
+      {
+        "value": "my brother",
+        "count": 1,
+        "example_quote": "I'm going to visit my brother in another city.",
+        "first_seen_day": 32
+      },
+      {
+        "value": "my girlfriend",
+        "count": 1,
+        "example_quote": "Hi! I'm heading home after a long run to see my girlfriend and eat some tacos. What are you up to today?",
+        "first_seen_day": 40
+      },
+      {
+        "value": "my dad",
+        "count": 1,
+        "example_quote": "I love green too! My favorite is a dark forest green. I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me.",
+        "first_seen_day": 54
+      }
+    ]
+  },
+  "personality_traits": [
+    {
+      "trait": "enthusiastic",
+      "signal_count": 55,
+      "frequency_per_100_msgs": 7.78,
+      "example_quotes": [
+        "I'm doing pretty well. I'm excited to be moving to a new city soon!",
+        "Really? That's so cool! Do you still live there?",
+        "That sounds amazing! I've never been to Powell's Books before. I'm definitely going to have to check it out."
+      ]
+    },
+    {
+      "trait": "supportive",
+      "signal_count": 39,
+      "frequency_per_100_msgs": 5.52,
+      "example_quotes": [
+        "That's great. Do you have any favorite places to visit in Portland?",
+        "Thanks for the recommendation! I'm sure I'll love it.",
+        "I'm sure it will be!"
+      ]
+    },
+    {
+      "trait": "emotional",
+      "signal_count": 10,
+      "frequency_per_100_msgs": 1.41,
+      "example_quotes": [
+        "I'm so sorry to hear that. Dogs are such wonderful companions.",
+        "I'm sure he misses you too.",
+        "I'm sorry to hear that. My family is everything to me."
+      ]
+    },
+    {
+      "trait": "serious",
+      "signal_count": 8,
+      "frequency_per_100_msgs": 1.13,
+      "example_quotes": [
+        "That's important! I'm glad you make time for your family.",
+        "It takes time, but it's worth it. Friends are so important.",
+        "I think it's important to have a balance between the two, so you don't get too burned out."
+      ]
+    },
+    {
+      "trait": "funny",
+      "signal_count": 3,
+      "frequency_per_100_msgs": 0.42,
+      "example_quotes": [
+        "That's cool! I'm a barista. I love books, and I like to watch funny and lighthearted shows to relax.",
+        "Me too! It's so funny and heartwarming.",
+        "I love to play badminton and watch funny shows. I'm also a student in social sciences and I love to draw comics."
+      ]
+    },
+    {
+      "trait": "curious",
+      "signal_count": 1,
+      "frequency_per_100_msgs": 0.14,
+      "example_quotes": [
+        "I agree. I think that is why they have such a wide appeal to people of all ages."
+      ]
+    }
+  ],
+  "communication_style": {
+    "avg_message_length_words": 11.2,
+    "message_length_style": "medium-length, conversational messages",
+    "exclamation_marks_per_100_msgs": 50.5,
+    "question_marks_per_100_msgs": 27.3,
+    "emoji_usage_per_100_msgs": 0.0,
+    "slang_casual_terms_per_100_msgs": 37.5,
+    "uses_emoji": false,
+    "uses_exclamations_frequently": true,
+    "tone": "casual / enthusiastic"
+  }
+}

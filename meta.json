@@ -1,0 +1,8 @@
+{
+  "num_messages": 1384,
+  "num_days": 80,
+  "num_topic_segments": 73,
+  "num_message_checkpoints": 14,
+  "build_time_seconds": 0.56,
+  "max_rows_used": 80
+}

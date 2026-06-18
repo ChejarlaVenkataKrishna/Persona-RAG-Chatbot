@@ -1,0 +1,114 @@
+[
+  {
+    "checkpoint_id": 1,
+    "start": 0,
+    "end": 100,
+    "num_messages": 100,
+    "summary": "I'm a fulltime student studying radiology at a local college and I also play in a band that my parents don't know about. I'm a big fan of punk music myself, and I like to run and do yoga in my spare time. It's a 1964 Impala and it's in pretty good condition, but it needs a new paint job. I am a little nervous about moving away from my family and friends, but I am looking forward to the new adventure.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 2,
+    "start": 100,
+    "end": 200,
+    "num_messages": 100,
+    "summary": "I have a lot of different kinds of plants, including flowers, vegetables, and herbs. I love being able to spend time with my kids and help them learn and grow. I love to read all sorts of books, but I'm especially a fan of historical fiction and fantasy. We live in a beautiful area, so there are lots of great hiking trails nearby.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 3,
+    "start": 200,
+    "end": 300,
+    "num_messages": 100,
+    "summary": "I mostly do nature photography, but I'm also trying to get into sports photography Oh cool, that's a great hobby to have Thanks! I've been doing it since I was a kid Wow that's awesome Yeah, my dad is a really good photographer and he's been teaching me everything he knows That's so cool! I am an EMT and I love helping people, but I am also worried that I won't be able to help my patients as well as I want to. I also like to watch YouTube videos about welding and learn new things.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 4,
+    "start": 300,
+    "end": 400,
+    "num_messages": 100,
+    "summary": "I love the combination of the creamy hummus and the crunchy pita bread. I love being able to make a difference in people's lives Hey there! It's a great way to get some exercise and spend time with my best friend. I also enjoy going to football games and watching horror movies.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 5,
+    "start": 400,
+    "end": 500,
+    "num_messages": 100,
+    "summary": "I love being able to create my own character and make choices that affect the story. I love to experiment with new recipes and I love to share my food with my friends and family. My favorite thing to cook is probably my mom's chicken noodle soup. I love to go for walks, spend time with my family and friends, and listen to music.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 6,
+    "start": 500,
+    "end": 600,
+    "num_messages": 100,
+    "summary": "I love making pasta dishes, like spaghetti and meatballs, lasagna, and ravioli. I'm actually a park ranger, so I get to spend my days surrounded by nature. I'm sure it has its ups and downs, but at least you get to meet new people all the time. I love adrenaline rushes and pushing myself to the limit, I also like to spend time alone to reflect on my life and what I want to achieve.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 7,
+    "start": 600,
+    "end": 700,
+    "num_messages": 100,
+    "summary": "I love When Harry Met Sally, Sleepless in Seattle, and The Princess Bride. I used to play hockey when I was younger, but now I enjoy spending my time fishing and relaxing. I'm just excited to start my senior year of high school next week. I like to read all kinds of books, but I especially enjoy historical fiction and fantasy novels.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 8,
+    "start": 700,
+    "end": 800,
+    "num_messages": 100,
+    "summary": "I'm working at a coffee shop to support myself while I pursue my dream of becoming a famous actress. I like to watch football on TV, read books, and spend time with my cat. I like to read a variety of books, but I'm especially interested in historical fiction and mystery novels. I've been reading a lot of historical fiction set in the Civil War lately.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 9,
+    "start": 800,
+    "end": 900,
+    "num_messages": 100,
+    "summary": "I like to play a lot of different kinds of music, but my favorite is probably rock and roll. It's not for everyone, but I love the homey atmosphere and the good old-fashioned comfort food. I love to read all sorts of books, but I'm a big fan of historical fiction and mysteries. I currently do not work, but I am interested in learning how to finish drywall like my dad.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 10,
+    "start": 900,
+    "end": 1000,
+    "num_messages": 100,
+    "summary": "I grew up in a suburb of Boston and my dad used to play Pearl Jam in the car with me. I'm trying to focus on the positive and it's given me a chance to catch up on my blog and exercise. I enjoy playing music, reading, and spending time with my family. I'm currently reading the Wheel of Time series by Robert Jordan.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 11,
+    "start": 1000,
+    "end": 1100,
+    "num_messages": 100,
+    "summary": "I think it's one of the best ways to learn about the world and meet new people. I'm a 30 year old female, I've been working the same job for two years, and I have a wife who is legally deaf. I'm still trying to figure out what I want to do with my life, but my school life is going well, though I am a bit tired from working so many hours at the food pantry. I work as a wedding planner and it's so much fun helping people create their dream weddings.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 12,
+    "start": 1100,
+    "end": 1200,
+    "num_messages": 100,
+    "summary": "I'm not a big fan of the cold, but I do enjoy playing fetch with my dog in the snow. I work at a grocery store, but I'm moving to a new city to pursue my culinary dreams. I've been working out in my home gym to keep fit, and I'm really excited to start cooking healthy meals. I love spending time with my friends and family, cooking, working out, and cosplaying.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 13,
+    "start": 1200,
+    "end": 1300,
+    "num_messages": 100,
+    "summary": "I like to read a lot of different types of books but I'm really into historical fiction right now. I listen to all sorts of music, but I especially love rock, pop, and hip-hop. I have to go to work but I'm excited because I'm going to be able to play racquetball after work with some friends That sounds like fun! It's a racquet sport that's similar to squash but it's played on a court that's smaller and the ball is a little bit bigger.",
+    "summary_method": "extractive"
+  },
+  {
+    "checkpoint_id": 14,
+    "start": 1300,
+    "end": 1384,
+    "num_messages": 84,
+    "summary": "I like a lot of different types of music, but I mostly listen to rock and pop. I like a lot of bands, but some of my favorites are The Beatles, The Rolling Stones, and Led Zeppelin. I'm looking for ways to control my blood sugar while still being able to enjoy my active lifestyle. I have a friend who was diagnosed with diabetes a few years ago, and she's been struggling to find a way to manage her blood sugar levels while still being able to do the things she loves.",
+    "summary_method": "extractive"
+  }
+]
