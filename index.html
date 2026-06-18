@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Persona RAG Chatbot</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="app">
+
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">◐</span>
+      <div>
+        <h1>Persona RAG Chatbot</h1>
+        <p class="subtitle">Topic-checkpointed RAG over {{ meta.num_messages }} messages · {{ meta.num_days }} days · {{ meta.num_topic_segments }} topics detected</p>
+      </div>
+    </div>
+    <nav class="tabs">
+      <button class="tab-btn active" data-tab="chat">Chat</button>
+      <button class="tab-btn" data-tab="persona">Persona</button>
+      <button class="tab-btn" data-tab="topics">Topic Timeline</button>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- CHAT TAB -->
+    <section class="tab-panel active" id="tab-chat">
+      <div class="chat-shell">
+        <div class="chat-log" id="chatLog">
+          <div class="msg bot">
+            <div class="bubble">
+              Hi! Ask me things like <em>"What kind of person is this user?"</em>,
+              <em>"What are their habits?"</em>, <em>"How do they talk?"</em>,
+              or anything about what was discussed in the conversation history.
+            </div>
+          </div>
+        </div>
+        <form class="chat-input" id="chatForm">
+          <input type="text" id="chatInput" placeholder="Ask about the user or their conversations…" autocomplete="off">
+          <button type="submit">Send</button>
+        </form>
+      </div>
+      <aside class="sources" id="sourcesPanel">
+        <h3>Retrieved sources</h3>
+        <p class="muted">Sources for the last answer will appear here.</p>
+      </aside>
+    </section>
+
+    <!-- PERSONA TAB -->
+    <section class="tab-panel" id="tab-persona">
+      <div class="persona-grid">
+
+        <div class="card">
+          <h3>Communication style</h3>
+          <div id="commStyle" class="kv-list"></div>
+        </div>
+
+        <div class="card">
+          <h3>Personality traits</h3>
+          <div id="traitsList" class="chip-list"></div>
+        </div>
+
+        <div class="card span2">
+          <h3>Habits</h3>
+          <div id="habitsList" class="fact-groups"></div>
+        </div>
+
+        <div class="card span2">
+          <h3>Personal facts</h3>
+          <div id="factsList" class="fact-groups"></div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- TOPICS TAB -->
+    <section class="tab-panel" id="tab-topics">
+      <div class="topics-toolbar">
+        <p class="muted">Each row below is one detected topic checkpoint, in chronological order.</p>
+      </div>
+      <div id="topicsList" class="topics-list"></div>
+    </section>
+
+  </main>
+</div>
+
+<script id="persona-data" type="application/json">{{ persona | tojson }}</script>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
