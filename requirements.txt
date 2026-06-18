@@ -1,0 +1,6 @@
+flask
+streamlit
+chromadb
+langchain
+langchain-community
+sentence-transformers
